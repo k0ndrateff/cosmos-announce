@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background-color: #17182f;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  font-family: 'Century Gothic';
+  font-size: 400%;
+  color: gainsboro;
+  text-shadow: aquamarine 1px 1px 4px;
+}
+
+h3 {
+  font-family: 'Century Gothic';
+  font-size: 200%;
+  color: gainsboro;
+  padding-top: 5%;
+  text-shadow: aquamarine 1px 1px 4px;
+}
+
+#cent {
+  padding-left: 30%;
+  padding-top: 10%;
+  width: 40%;
+}
+
+#podpis {
+  font-size: 150%;
+  text-align: right;
+  font-family: "Segoe Script";
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
